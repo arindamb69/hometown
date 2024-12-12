@@ -4,7 +4,8 @@ body{
     /* border: 2px solid black; */
     font-family: "Fredoka", sans-serif;
     margin : 0 auto;
-    background-image: linear-gradient(#939d9e, #fff)
+    background-image: linear-gradient(#939d9e, #fff);
+    background-repeat: no-repeat;
 
 }
 
